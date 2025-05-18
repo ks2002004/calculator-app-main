@@ -22,7 +22,7 @@ How to Run
 
 
 
-Clone the repo: git clone https://github.com/your-username/your-repo-name.git
+Clone the repo: [git clone https://github.com/ks2002004/calculator-app-main?tab=readme-ov-file#welcome-]
 
 
 
